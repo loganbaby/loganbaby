@@ -9,20 +9,25 @@
 <div class align="center">
 
 ### **Stack of techonologies:**
-- ### **C / C++ 11** and higher
-- ### **Qt 5.12.12** and higher
-- ### **Ui-designer** (working with Qt designer)
-- ### **CMAKE, QMAKE**
-- ### **libcurl / libcpr**
-- ### **FMOD / FMPEG engine**
-- ### **nlohmann_json library**
-- ### **C# 6.0** and higher
-- ### **Python 3.0** and higher
-- ### **Telegram Api, Vk api**
-- ### **Aiogram**
-- ### **Telebot**
-- ### **Selenium**
-- ### **Js, React, Typescript, SCSS**
+###  **C / C++ 11** and higher
+### **Qt 5.12.12** and higher
+### **Ui-designer** (working with Qt designer)
+### **CMAKE, QMAKE**
+### **libcurl / libcpr**
+
+<img align='left' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50" height="50" align="right">
+
+### **FMOD / FMPEG engine**
+### **nlohmann_json library**
+### **C# 6.0** and higher
+### **Python 3.0** and higher
+### **Telegram Api, Vk api**
+### **Aiogram**
+### **Telebot**
+### **Selenium**
+### **Js, React, Typescript, SCSS**
 
 [![My Skills](https://skillicons.dev/icons?i=py,selenium,js,react,ts,scss,css,html)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,qt,cs,visualstudio)](https://skillicons.dev)
