@@ -3,7 +3,7 @@
 ### *Location: St. Petersburg* <hr>
 
 ### **About me:**
-#### *__Back-end developer, no commercial experience.  At the moment I am in the discovery of the IT community in the opinion of the socially significant products of "UnicornWitnesses", the leading development for the regular launch of MuteIt, for which a cross-platform audio module was written to play sound at a low level__* <hr>
+#### *__Backend developer, no commercial experience.  At the moment I am in the discovery of the IT community in the opinion of the socially significant products of "UnicornWitnesses", the leading development for the regular launch of MuteIt, for which a cross-platform audio module was written to play sound at a low level__* <hr>
 
 
 <div class align="center">
@@ -31,8 +31,5 @@
 
 [![My Skills](https://skillicons.dev/icons?i=py,selenium,js,react,ts,scss,css,html)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,cmake,qt,cs,visualstudio)](https://skillicons.dev)
-<hr>
 
-[![loganbaby's GitHub stats](https://github-readme-stats.vercel.app/api?username=loganbaby&theme=cobalt&show_icons=true)](https://github.com/loganbaby/loganbaby)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=loganbaby&layout=compact&theme=cobalt)](https://github.com/loganbaby/loganbaby)
 </div>
